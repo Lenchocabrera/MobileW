@@ -1,0 +1,33 @@
+ <!DOCTYPE html>
+ <html lang="es">
+ <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="stylesheet" href="./css/estilos.css">
+     <title>Barras</title>
+ </head>
+ <body>
+     <header>
+
+      <nav>
+            <ul>
+                <li><a href="./barras">Barras Portaequipaje de Aluminio</a></li>
+            </ul>
+     </nav>
+ 
+ 
+         <img src="../assets/imagenes/barras-con-llave1.webp" alt="barras de aluminio">
+         <img src="../assets/imagenes/barras-con-llave-2.webp" alt="barras colocadas">
+         <img src="../assets/imagenes/barras-con-llave-3.webp" alt="muestra de barras con llaves">
+         <img src="../assets/imagenes/logo-mobile.png" alt="logo">
+
+    </header>
+ </body>
+   <footer>
+       <nav>
+          <ul>
+            <li><a href="./index.html"> Inicio </a></li>
+            
+          </ul>
+        </nav>
+ </footer>

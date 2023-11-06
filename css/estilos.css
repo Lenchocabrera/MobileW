@@ -1,0 +1,74 @@
+*{
+    font-family: 'Acme', sans-serif;
+    font-family: 'Oswald', sans-serif; ;
+    /*rese*/
+    padding: 0%;
+    box-sizing: border-box;
+    margin: 0%;
+
+}
+
+
+.cabeza {
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    font-size: 14px;
+    box-shadow: 0;
+}
+.cabeza img{
+    width: 10%;
+    top: 0%;
+    right: 0%;
+
+}
+
+.menulist{
+    display: flex
+}
+
+.menulist li{ 
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+    padding: 23px 20px;
+    color: #fff 
+}
+.menulist li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+    padding: 23px 20px;
+    color: #fff 
+}
+
+#pie {
+    background-color:black
+       
+}
+#pie p{
+    right: auto;
+}
+
+
+#productos{
+    background-color: black;
+}
+.imglocal{
+    background-size: cover;
+    height: auto
+}
+
+.mapa{
+    color: rgb(98, 99, 97);
+    width: 50px;
+    height: 50px;
+}
+
+.textoac{
+    font-size: medium;
+    font-weight: 300;
+}
+
+.productos{
+    background-color: black;
+}

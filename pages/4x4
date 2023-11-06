@@ -1,0 +1,28 @@
+<!DOCTYPE html> 
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/estilos.css">
+    <title>4x4</title>
+</head>
+
+<p>  Accesorios para tu 4x4 </p>
+
+<body>
+
+   <img src="../assets/imagenes/planchadesatasco.webp" alt="planchas de desatasco rojas">
+
+   <img src="../assets/imagenes/malacate1.jpg" alt="Malacate ironman">
+
+   <img src="../assets/imagenes/malacate2.jpg" alt="Malacate ironman">
+
+</body>
+
+<footer>
+    <nav>
+            <ul>
+                <li><a href="../index.html"> Inicio </a></li>   
+            </ul>
+            </nav>
+</footer>

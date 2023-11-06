@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/estilos.css">
+    <title>Valija 410</title>
+</head>
+<body>
+    <header>
+
+        <nav>
+            <ul>
+                <li><a href="./valija410">Valija portaequipaje de techo 410 Lts para autos y camioneta  </a></li>
+        
+            </ul>
+        </nav>
+            <img src="../assets/imagenes/valija-410lts.webp" alt="valija410lts colocada">
+            <img src="../assets/imagenes/valija-410lts-2.webp" alt="valija410 de perfil">
+            <img src="../assets/imagenes/logo-mobile.png" alt="logo">
+        
+    <p>
+        VALIJA DE TECHO 410 LITROS
+
+       Capacidad de carga: 50 kg
+       Sistema de Doble Cerradura
+       Incluye dos juegos de llaves
+       Traba frontal, asegura el equipaje contra el viento
+       Material: Plástico de alto impacto
+       Medidas: 135 x 85 x 35 cm
+       COLOR: Negro
+       Diseño aerodinámico de elegante apariencia, reduce la resistencia y el ruido.
+       Accesorios: ganchos en forma de U para adaptar a las barras portaequipaje
+
+    </p>  
+
+ </header>
+</body>
+<footer> 
+    <nav>
+        <ul>
+            <li><a href="../index.html"> Inicio </a></li>
+            
+        </ul>
+        </nav>
+</footer>
